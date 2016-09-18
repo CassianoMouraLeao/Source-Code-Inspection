@@ -5,6 +5,12 @@ import java.util.Iterator;
 /**
  *
  * @author Calebe de Paula Bianchini
+ *         ----------------------------
+ *         ------- Alterado por -------
+ * 
+ *         Cassiano Moura Leão
+ *         Maxwell de Souza Freitas
+ *         ----------------------------
  */
 class Troco {
 
