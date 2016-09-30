@@ -3,6 +3,12 @@ package br.calebe.ticketmachine.core;
 /**
  *
  * @author Calebe de Paula Bianchini
+ *         ----------------------------
+ *         ------- Alterado por -------
+ * 
+ *         Cassiano Moura Leão
+ *         Maxwell de Souza Freitas
+ *         ----------------------------
  */
 public class PapelMoeda {
 
